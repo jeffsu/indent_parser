@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = IndentParser::VERSION
   s.authors     = ["Jeff Su"]
   s.email       = ["me@jeffsu.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/jeffsu/indent_parser"
   s.summary     = %q{Parser for python-style (or haml, sass, etc...) indent markup languages}
   s.description = %q{Parser for python-style (or haml, sass, etc...) indent markup languages}
 
